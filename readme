@@ -1,1 +1,4 @@
- git clone https://git.codelinaro.org/clo/la/platform/vendor/qcom-opensource/kernel/lk.git
+
+git clone https://git.codelinaro.org/clo/la/platform/vendor/qcom-opensource/tools.git
+
+git clone https://git.codelinaro.org/clo/la/platform/vendor/qcom-opensource/kernel/lk.git
